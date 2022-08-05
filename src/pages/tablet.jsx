@@ -8,6 +8,9 @@ const Tablet = () => (
         <LinkComponent path='/' text='Ir a página principal' />
       </h2>
     </div>
+    <div>
+      <img src='/img/sam_gal_tab3.png' alt='sam_gal_tab3' />
+    </div>
   </main>
 );
 

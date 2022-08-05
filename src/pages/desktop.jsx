@@ -8,6 +8,9 @@ const Desktop = () => (
         <LinkComponent path='/' text='Ir a página principal' />
       </h2>
     </div>
+    <div>
+      <img src='/img/mac_book_p3.png' alt='mac_book_p3' />
+    </div>
   </main>
 );
 

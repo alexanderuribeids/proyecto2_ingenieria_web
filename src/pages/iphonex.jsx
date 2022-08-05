@@ -8,6 +8,9 @@ const Iphonex = () => (
         <LinkComponent path='/' text='Ir a página principal' />
       </h2>
     </div>
+    <div>
+      <img src='/img/iphonex.png' alt='Iphonex' />
+    </div>
   </main>
 );
 
